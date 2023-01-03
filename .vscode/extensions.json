@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "rockingskier.copy-copy-paste",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "kevinrose.vsc-python-indent",
+        "njqdev.vscode-python-typehint"
+    ]
+}
